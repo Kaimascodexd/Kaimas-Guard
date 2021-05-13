@@ -1,0 +1,2 @@
+# discord-miafc-k-bot
+MİAF ARKADAŞIMIZIN DA GUARDLARI BUYRUN
