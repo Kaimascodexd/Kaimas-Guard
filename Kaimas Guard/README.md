@@ -1,2 +1,2 @@
-# discord-miafc-k-bot
-MİAF ARKADAŞIMIZIN DA GUARDLARI BUYRUN
+# kaimas guard bot
+Kaimas Gyard Bıt
