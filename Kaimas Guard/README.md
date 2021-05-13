@@ -1,2 +1,2 @@
 # kaimas guard bot
-Kaimas Gyard Bıt
+Kaimas Guard Bıt
